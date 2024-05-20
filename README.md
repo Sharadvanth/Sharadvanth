@@ -21,12 +21,15 @@
 
 - 🤘I keep building projects, here are some recent projects:
   - **[British Airways Analysis using Web Scrapping](https://github.com/VinayMeesaraganda/Python-Projects/tree/main/British%20Airways%20Analysis%20-%20Web%20Scrapping)**
-  - **[Stock Price Prediction Using Arima Model](https://github.com/VinayMeesaraganda/Python-Projects/tree/main/Stock%20Price%20Prediction%20using%20ARIMA)**
-  - **[Credit Card Fraud Detection using ML](https://github.com/VinayMeesaraganda/Python-Projects/tree/main/Credit%20card%20Fraud%20Detection)**
-  - **[Loan Default Prediction](https://github.com/VinayMeesaraganda/CS668_Capstone_Project)**
+
 
 - My Certifications and Courses
-  - **[Microsoft Certifies: Azure fundamentals](https://github.com/Sharadvanth/Certifications/blob/main/Azure/Az900.pdf)**
+  - **[Microsoft Certified: Azure fundamentals](https://github.com/Sharadvanth/Certifications/blob/main/Azure/Az900.pdf)**
+  - **[Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/1cbcbb36-b66e-468d-850c-8a36864d574b/public_url)**
+  - **[AWS Certified: Cloud Quest](https://www.credly.com/badges/3d308409-fe9b-4fda-9a06-bb13d130c693/public_url)**
+  - **[Coursera](https://github.com/Sharadvanth/Certifications/blob/main/Python.pdf)**
+  - **[Linkedin](https://github.com/Sharadvanth/Certifications/tree/main/LinkedinLearnings)**
+  - **[KodeKloud](https://github.com/Sharadvanth/Certifications/tree/main/Kodekloud)**
 
 
 - 📈 My Github Stats
