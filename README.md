@@ -2,16 +2,16 @@
 <a href="https://surajnemaliga7.wixsite.com/sharadvanth">
   <img src="https://raw.githubusercontent.com/Sharadvanth/Sharadvanth/main/!1.webp" alt="MasterHead" width="1000" height="400">
 </a>
-<h1 align="center">Hello, I am SharadVanth<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hello, I am Sharad Vanth<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" height="320" style="max-width:100%;">
 
 ## Thanks for stopping by. Here's a little bit about myself...
 
-- 🌱 I’m currently learning Data Science
-- 🤘 You can find various data science and engineering projects on my profile
-- 👯 I’m looking to collaborate on Data Science related Projects
-- 👨‍💻 All of my projects are available at **[Portfolio](https://vinaymeesaraganda.github.io/)**
+- 🌱 I’m currently learning Corporate DevSecOps | Cloud 
+- 🤘 You can find various DevOps and Cloud engineering projects on my profile
+- 👯 I’m looking to collaborate on DevOps related Projects
+- 👨‍💻 All of my projects are available at **[Portfolio](https://sharadvanth.github.io/)**
 - 💬 Ask me about **Python, SQL, Tableau, Machine Learning, Data Science, Data Engineering**
 - 📫 Here's how you can reach me:  **raj.vinay2408@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/vinaykiranraju/)**
 - 🤘I keep building projects, here are some recent projects:
