@@ -1,6 +1,6 @@
 
 <a href="https://surajnemaliga7.wixsite.com/sharadvanth">
-  <img src="https://raw.githubusercontent.com/Sharadvanth/Sharadvanth/main/!D.webp" alt="MasterHead" width="1000" height="300">
+  <img src="https://raw.githubusercontent.com/Sharadvanth/Sharadvanth/main/!D.webp" alt="MasterHead" width="1000" height="200">
 </a>
 <h1 align="center">Hello, I am Sharad Vanth<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
