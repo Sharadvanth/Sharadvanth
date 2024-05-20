@@ -31,6 +31,6 @@
   - **[Cognizant - Agile Methodology Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant_ptr9y3XYXj6BMRE3B_1687536399727_completion_certificate.pdf)**
 
 - 📈 My Github Stats
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaymeesaraganda&show_icons=true&locale=en" alt="vinaymeesaraganda" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadvanth&show_icons=true&locale=en" alt="sharadvanth" /></p>
 If you want to talk to me or want to discuss something then feel free to ping me on LinkedIn
   
