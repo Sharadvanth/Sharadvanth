@@ -35,6 +35,6 @@
 - 📈 My Github Stats
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadvanth&show_icons=true&locale=en" alt="sharadvanth" /></p>
 
-  [![HitCount](https://hits.dwyl.com/sharadvanth/sharadvanth.svg?style=flat-square&show=unique)](http://hits.dwyl.com/sharadvanth/sharadvanth)
+  [![Views](https://hits.dwyl.com/sharadvanth/sharadvanth.svg?style=flat-square&show=unique)](http://hits.dwyl.com/sharadvanth/sharadvanth)
 
 Email | Linkedin is the Best Way To reach me :)!!
