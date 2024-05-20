@@ -34,5 +34,5 @@
 
 - 📈 My Github Stats
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadvanth&show_icons=true&locale=en" alt="sharadvanth" /></p>
-If you want to talk to me or want to discuss something then feel free to ping me on LinkedIn
-  
+
+Email | Linkedin is the Best Way To reach me :)!!
