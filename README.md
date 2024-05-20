@@ -1,6 +1,6 @@
 
 <a href="https://vinaymeesaraganda.github.io/">
-  <img src="https://raw.githubusercontent.com/Sharadvanth/Sharadvanth/main/!1.webp" alt="MasterHead" width="1000" height="500">
+  <img src="https://raw.githubusercontent.com/Sharadvanth/Sharadvanth/main/!1.webp" alt="MasterHead" width="900" height="400">
 </a>
 <h1 align="center">Hello, I am SharadVanth<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
