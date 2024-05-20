@@ -1,8 +1,8 @@
 
 <a href="https://vinaymeesaraganda.github.io/">
-  <img src="https://uwo.ca/sci/datascience/img/Placeholders/Data%20Science%20Slide.jpg" alt="MasterHead" width="1000" height="200">
+  <img src="https://uwo.ca/sci/DevOps Engineer/img/Placeholders/Data%20Science%20Slide.jpg" alt="MasterHead" width="1000" height="200">
 </a>
-<h1 align="center">Hello, I am SharadVanthy<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hello, I am SharadVanth<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" height="320" style="max-width:100%;">
 
