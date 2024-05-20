@@ -12,8 +12,8 @@
 - 🤘 You can find various DevOps and Cloud engineering projects on my profile
 - 👯 I’m looking to collaborate on DevOps related Projects
 - 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/sharadvanth)**
-- 💬 Ask me about **Python, SQL, Tableau, Machine Learning, Data Science, Data Engineering**
-- 📫 Here's how you can reach me:  **raj.vinay2408@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/vinaykiranraju/)**
+- 💬 Ask me about **DevOps | Cloud DevOps**
+- 📫 Here's how you can reach me:  **sharadvanthsai@gmail.com** |   <a href="https://linkedin.com/in/sharad-vanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" />
 - 🤘I keep building projects, here are some recent projects:
   - **[British Airways Analysis using Web Scrapping](https://github.com/VinayMeesaraganda/Python-Projects/tree/main/British%20Airways%20Analysis%20-%20Web%20Scrapping)**
   - **[Stock Price Prediction Using Arima Model](https://github.com/VinayMeesaraganda/Python-Projects/tree/main/Stock%20Price%20Prediction%20using%20ARIMA)**
