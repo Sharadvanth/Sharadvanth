@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Corporate DevSecOps | Cloud 
 - 🤘 You can find various DevOps and Cloud engineering projects on my profile
 - 👯 I’m looking to collaborate on DevOps related Projects
-- 👨‍💻 All of my projects are available at **[Portfolio](https://sharadvanth.github.io/)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/sharadvanth)**
 - 💬 Ask me about **Python, SQL, Tableau, Machine Learning, Data Science, Data Engineering**
 - 📫 Here's how you can reach me:  **raj.vinay2408@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/vinaykiranraju/)**
 - 🤘I keep building projects, here are some recent projects:
