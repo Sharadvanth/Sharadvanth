@@ -4,7 +4,7 @@
 </a>
 <h1 align="center">Hello, I am Sharad Vanth<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200" height="120" style="max-width:100%;">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## Thanks for stopping by. Here's a little bit about myself...
 
