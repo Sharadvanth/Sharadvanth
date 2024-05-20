@@ -36,7 +36,7 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadvanth&show_icons=true&locale=en" alt="sharadvanth" /></p>
 
   
-  ![GitHub](https://img.shields.io/github/watchers/sharadvanth/sharadvanth)
+![GitHub watchers](https://img.shields.io/github/watchers/sharadvanth/sharadvanth?style=flat-square&logo=github&logoColor=Yellow&label=GitHub&labelColor=Blue&color=White)
 
 
 Email | Linkedin is the Best Way To reach me :)!!
